@@ -1,0 +1,9 @@
+__pycache__/
+venv/
+.env
+my_model/
+instance/
+*.pyc
+*.pkl
+*.safetensors
+*.h5

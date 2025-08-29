@@ -1,0 +1,8 @@
+Flask
+Flask-SQLAlchemy
+sentence-transformers
+groq
+pdf2image
+pytesseract
+Pillow
+python-dotenv
