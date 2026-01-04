@@ -186,3 +186,5 @@ my_model/
 *.pkl
 *.safetensors
 *.h5
+
+jobs.db
